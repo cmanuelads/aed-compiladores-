@@ -1,0 +1,6 @@
+# comandos válidos
+
+CREATE "Estudar compiladores";
+LIST;
+DONE 1;
+REMOVE 2;

@@ -1,0 +1,5 @@
+# comandos inválidos (vai parar no primeiro erro que encontrar)
+
+CREATE ;
+DONE ;
+REMOVE "dois";
